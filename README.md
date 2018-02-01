@@ -1,2 +1,2 @@
-# E-Zak
-E-Zak Berbasis java Gui
+# Aplikasi zakat (E-Zak)
+Aplikasi yang di desian dengan tampilan berbasis java GUI.
